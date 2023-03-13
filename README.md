@@ -14,7 +14,7 @@ TIP: Be specific e.g. `PS5 console` not `PS5`
  - *WordCloud* for word clouds
 
 ## Demo
-![screencapture](https://user-images.githubusercontent.com/80515759/224651376-fc0dbccc-1937-42fa-be13-1ec02133cf61.png)
+![screencapture-of-website](https://user-images.githubusercontent.com/80515759/224652314-b8b04b45-7e98-407a-b243-5c22447be745.png)
 
 ## References
  - Inspired by [nus-sentiment](https://github.com/nus-sentiment/nus-sentiment)
