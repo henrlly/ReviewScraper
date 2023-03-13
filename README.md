@@ -1,9 +1,5 @@
 # Review Scraper
-<<<<<<< HEAD
 Website that scrapes Google for reviews of an item (product, movie, etc.) and runs sentiment analysis on result descriptions
-=======
-Website that scrapes Google for reviews of something and runs sentiment analysis on result descriptions
->>>>>>> 3a97269f11248b9fb6eb58ca5c6e8128cb789129
 
 LIVE at [reviewscrper.streamlit.app](https://reviewscrper.streamlit.app/)!
 
