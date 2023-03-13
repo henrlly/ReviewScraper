@@ -1,5 +1,5 @@
 # Review Scraper
-Website that scrapes Google for product reviews and runs sentiment analysis on result descriptions
+Website that scrapes Google for reviews of something and runs sentiment analysis on result descriptions
 
 LIVE at [reviewscrper.streamlit.app](https://reviewscrper.streamlit.app/)!
 
