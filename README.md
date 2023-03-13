@@ -1,5 +1,5 @@
 # Review Scraper
-Website that scrapes Google for product reviews and runs sentiment analysis on result descriptions
+Website that scrapes Google for reviews of an item (product, movie, etc.) and runs sentiment analysis on result descriptions
 
 LIVE at [reviewscrper.streamlit.app](https://reviewscrper.streamlit.app/)!
 
@@ -8,7 +8,7 @@ TIP: Be specific e.g. `PS5 console` not `PS5`
 ## What it uses
  - *Huggingface* for sentiment analysis
     - Uses `LiYuan/amazon-review-sentiment-analysis` for 1-5 star rating
-    - Uses `cardiffnlp/twitter-roberta-base-sentiment-latest` for positive/neutral/negative
+    - Uses `cardiffnlp/twitter-roberta-base-sentiment-latest` for positive/neutral/negative sentiment
  - *Apify* for scraping Google
  - *Streamlit* for hosting the website
  - *WordCloud* for word clouds
