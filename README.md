@@ -14,7 +14,7 @@ TIP: Be specific e.g. `PS5 console` not `PS5`
  - *WordCloud* for word clouds
 
 ## Demo
-![screencapture-of-website](https://user-images.githubusercontent.com/80515759/224652314-b8b04b45-7e98-407a-b243-5c22447be745.png)
+![screencapture-of-website](https://user-images.githubusercontent.com/80515759/224659991-f35ab6ad-9767-47cc-ab33-9b12daf4b3d0.png)
 
 ## How to host locally
 1. Install requirements
